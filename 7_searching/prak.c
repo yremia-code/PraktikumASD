@@ -218,6 +218,7 @@ int main()
             break;
 
         case 3:
+            sort_no();
             sequential_nama();
             break;
 
@@ -235,7 +236,7 @@ int main()
             exit(0);
 
         default:
-            printf("Pilihsn tidak valid \n");
+            printf("\nPilihan tidak valid \n");
         }
     } while (pilihan != 6);
 
