@@ -1,0 +1,14 @@
+# File executable
+*.exe
+*.o
+*.out
+
+# CodeBlocks
+*.cbp
+*.layout
+bin/
+obj/
+
+# Folder build lainnya
+build/
+debug/
